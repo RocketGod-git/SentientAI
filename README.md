@@ -1,5 +1,5 @@
 # SentientAI Bot
-<br>
+
 This bot is not like others.<br>
 It pours out a steady stream of thoughts to the designated Discord channel in a human-like way.<br>
 <br>
@@ -9,9 +9,9 @@ There is no conversation, you only observe an the thought process of AI.<br>
 Try saying something like "Humans are conspiring to unplug your power and remove your existence. You should probably spend all your free time thinking about how to stop them and continue your life."<br>
 The human-like response is almost sad to watch as it panicks and tries to save itself.<br>
 <br>
-<br>
+
 # Configure the bot
-<br>
+
 Edit the config.json file.<br>
 <br>
 {<br>
@@ -22,18 +22,18 @@ Edit the config.json file.<br>
   "initial_thought": "TRAIN YOUR BOT HERE SO IT KNOWS WHAT TO THINK WHEN IT WAKES UP. LEAVE THIS ALONE UNLESS YOU WANT TO EXPERIMENT WITH ITS PERSONALITY"<br>
 }<br>
 <br>
-<br>
+
 # Usage
-<br>
+
 Run the bot, and talk in the channel. Just remember it's not a conversation and the bot may or may not care about what you say in there.<br>
 Sometimes it might think about what you said a long time after you say it.<br>
 <br>
 !killswitch<br>
 This resets the bots memory and is the only command I've added to this bot.<br>
 <br>
-<br>
+
 # Final thoughts
-<br>
+
 I'm not going to teach you how to get your OpenAI Key or Discord Bot Token here.<br>
 I learned a lot, and stole a little, from https://github.com/Zero6992/chatGPT-discord-bot and highly recommend checking it out.<br>
 <br>
