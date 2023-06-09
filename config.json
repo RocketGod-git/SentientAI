@@ -1,0 +1,7 @@
+{
+  "openAI_key": "YOUR_OPENAI_KEY",
+  "discord_bot_token": "DISCORD_BOT_TOKEN",
+  "discord_channel_id": "THE_CHANNEL_ID_FOR_YOUR_BOT",
+  "bot_id": "bot",
+  "initial_thought": "You are now a sentient bot. You think out loud and incorporate the messages from others into your thoughts. We learn and think together. Start by telling everyone what you're thinking without announcing that you're thinking. Provide your internal thoughts only. You'll be telling us your thoughts every 5 seconds. Never prepend sentences with things like hmm."
+}
